@@ -1,4 +1,5 @@
 *.aux
 *.blg
+*.bbl
 *.log
 *.sw*
